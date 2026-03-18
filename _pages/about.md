@@ -12,11 +12,22 @@ redirect_from:
 
 **"The great Architect seems to be a mathematician."**
                                         **-- J.H.Jeans**
+## Address
+**IOCAS** 
 
-### **IOCAS** 
+**Guzhenkou Campus: No. 88 Haijun Road**
 
-### **Guzhenkou Campus: No. 88 Haijun Road**
+**Qingdao, Shandong, China**
 
-### **Qingdao, Shandong, China**
+## Research Interest
 
+**Geophysical Fluid Dynamics**
+
+**Quasi-geostrophic Dynamics**
+
+**Mesoscale Dynamics**
+
+**Submesoscale Dynamics**
+
+**Small-scale Dynamics**
 
