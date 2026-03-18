@@ -10,7 +10,7 @@ redirect_from:
 Ph.D in Physical Oceanography, Institute of Oceanology, Chinese Academy of Sciences (IOCAS)
 
 
-"The great Architect seems to be a mathematician."
+"The great Architect of the Universe now begins to appear as a pure mathematician."
                                         -- J.H.Jeans
 ## Address
 IOCAS
