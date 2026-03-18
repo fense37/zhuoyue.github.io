@@ -1,7 +1,7 @@
 ---
 title: "Subsurface Eddies Transited from Surface Eddies over Non-parallel Background Isopycnals"
 collection: publications
-category: article
+category: manuscripts
 permalink: /publication/wang2026a
 excerpt: ''
 date: 2026-03-17
