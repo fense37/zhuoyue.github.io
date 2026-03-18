@@ -7,27 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-**Ph.D in Physical Oceanography, Institute of Oceanology, Chinese Academy of Sciences (IOCAS)**
+Ph.D in Physical Oceanography, Institute of Oceanology, Chinese Academy of Sciences (IOCAS)
 
 
-**"The great Architect seems to be a mathematician."**
-                                        **-- J.H.Jeans**
+"The great Architect seems to be a mathematician."
+                                        -- J.H.Jeans
 ## Address
-**IOCAS** 
+IOCAS
 
-**Guzhenkou Campus: No. 88 Haijun Road**
+Guzhenkou Campus: No. 88 Haijun Road
 
-**Qingdao, Shandong, China**
+Qingdao, Shandong, China
 
 ## Research Interest
 
-* **Geophysical Fluid Dynamics**
+* Geophysical Fluid Dynamics
 
-* **Quasi-geostrophic Dynamics**
+* Quasi-geostrophic Dynamics
 
-* **Mesoscale Dynamics**
+* Mesoscale Dynamics
 
-* **Submesoscale Dynamics**
+* Submesoscale Dynamics
 
-* **Small-scale Dynamics**
+* Small-scale Dynamics
 
