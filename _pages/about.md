@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhuoyue Wang"
+title: "Homepage of Zhuoyue Wang"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +9,8 @@ redirect_from:
 
 Ph.D in Physical Oceanography, Institute of Oceanology, Chinese Academy of Sciences (IOCAS)
 
+"The great Architect seems to be a mathemation."
+                                        -- J.H.Jeans
 
 A data-driven personal website
 ======
