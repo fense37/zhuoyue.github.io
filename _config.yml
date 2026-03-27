@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : #"None" # Replace this with you Bluesky username
+  bluesky          : "fense233.bsky.social" #"None" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -74,10 +74,10 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "fense233"# Username for X / Twitter
   vine             : # Username
   weibo            : # Username
-  wikipedia        : # Username
+  wikipedia        : "Fense233"# Username
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
